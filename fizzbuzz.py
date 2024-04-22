@@ -1,1 +1,3 @@
-print('fizzbuzz')
+    if i % 3 ==0:
+        print('fizz')
+
